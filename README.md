@@ -48,7 +48,7 @@ It is advised not to run the entire notebook due to its run time, and instead to
   
 <br />
   
-### R / R Studio
+### R
 
 ***"R is a programming language for statistical computing and graphics"***
 
