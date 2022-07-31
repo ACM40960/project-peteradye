@@ -2,13 +2,13 @@
 
 <br />
 
-- [**Introduction**](https://github.com/ACM40960/project-Ellen_Bennett#introduction)
-- [**Installation Instructions**](https://github.com/ACM40960/project-Ellen_Bennett#installation-instructions)
-  - [Mathematica](https://github.com/ACM40960/project-Ellen_Bennett#mathematica)
-  - [R](https://github.com/ACM40960/project-Ellen_Bennett#r)
-- [**Running Code**](https://github.com/ACM40960/project-Ellen_Bennett#running-code)
-  - [Mathematica Notebook](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook)
-  - [R Script](https://github.com/ACM40960/project-Ellen_Bennett#r-script)
+- [**Introduction**](https://github.com/ACM40960/project-peteradye#introduction)
+- [**Installation Instructions**](https://github.com/ACM40960/project-peteradye#installation-instructions)
+  - [Mathematica](https://github.com/ACM40960/project-peteradye#mathematica)
+  - [R](https://github.com/ACM40960/project-peteradye#r)
+- [**Running Code**](https://github.com/ACM40960/project-peteradye#running-code)
+  - [Mathematica Notebook](https://github.com/ACM40960/project-peteradye#mathematica-notebook)
+  - [R Script](https://github.com/ACM40960/project-peteradye#r-script)
 
 <br />
 <br />
@@ -21,7 +21,7 @@
    
    This README file will detail how to run code to reproduce the results of each of the simulation techniques detailed in the paper. First install and download relevant softwares and scripts via "Installation Instructions" before reading the "Running Code" section.
   
-   <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/gif_of_quadrant_method.gif" width="300" height="275"/>
+   <img src="https://github.com/ACM40960/project-peteradye/blob/main/images/gif_of_quadrant_method.gif" width="300" height="275"/>
 
 <br />
 <br />
@@ -38,13 +38,13 @@ The ZIP file containing all source code files can be downloaded by clicking on t
 
 The notebook *Estimating_Pi.nb* was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/download_code.png" width = "500"/>
+<img src="https://github.com/ACM40960/project-peteradye/blob/main/images/download_code.png" width = "500"/>
 
 Once the notebook has been downloaded it can be opened on your computer by running the *Wolfram Mathematica* program, and clicking the ***Open...*** icon. 
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/mathematica_menu.png" width = "500"/>
+<img src="https://github.com/ACM40960/project-peteradye/blob/main/images/mathematica_menu.png" width = "500"/>
 
-It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook).
+It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-peteradye#mathematica-notebook).
   
 <br />
   
@@ -66,7 +66,7 @@ Enter and run the following lines of code in R console or through a script via R
 
 Once a script has been downloaded, it can be opened on your computer by right clicking the file, and clicking ***Open with > R Studio***. 
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/Open_R_Script.png" width = "500" />
+<img src="https://github.com/ACM40960/project-peteradye/blob/main/images/Open_R_Script.png" width = "500" />
 
 <br />
 <br />
@@ -89,7 +89,7 @@ Mathematica notebook *Estimating_Pi.nb* and  R script *Estimating_Pi.R* are used
 
 The Mathematica notebook *Estimating_Pi.nb* in folder *Mathematica Code* is divided into seven sections, each of which is split into various subsections. Sections can be expanded by clicking on the orange arrow icon at the right hand side of the section title. 
 
-  <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/notebook_layout.png" width = "500" />
+  <img src="https://github.com/ACM40960/project-peteradye/blob/main/images/notebook_layout.png" width = "500" />
 
 The first four sections contain code pertaining to simulations for four of the methods, and the last three contain code that was used to obtain plots included in the paper. 
 
@@ -111,7 +111,7 @@ The titles of the subsections containing these functions are:
 - ***3.1. Gamma Function Integral Method*** - *Function to Demonstrate Method*
 - ***4.1. Gregory-Leibniz Series Method*** - *Function to Demonstrate Method*
 
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/functions.png" width = "500" />
+<img src="https://github.com/ACM40960/project-peteradye/blob/main/images/functions.png" width = "500" />
 
 Sections 5 to 7 contain code that was used to create error plots, relative difference plots, and convergence plots for the project. By default the code is set to produce plots of the **Gamma Function Integral Method**, as its Monte Carlo Simulations take the shortest amount of time to run (5 minutes).
 
@@ -138,8 +138,8 @@ Note: The start and end of each section are clearly commented for convenience (S
 After running each section, you will generate the convergence plots of the mean estimate of Pi and the associated confidence interval at specific time points as shown in the picture. You can then also retrieve the numeric estimates by running `N_pi_est_{insert question letter here}` for example `N_pi_est_b`.
 
 <p float="left">
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_1.png" width = "450" height = "300" />
-<img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "450" height = "300"/>
+<img src="https://github.com/ACM40960/project-peteradye/blob/main/images/How_To_Run_R_Script_1.png" width = "450" height = "300" />
+<img src="https://github.com/ACM40960/project-peteradye/blob/main/images/How_To_Run_R_Script_2.png" width = "450" height = "300"/>
 </p>
 
 <br />
