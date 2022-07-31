@@ -5,7 +5,7 @@
 - [**Introduction**](https://github.com/ACM40960/project-peteradye#introduction)
 - [**Installation Instructions**](https://github.com/ACM40960/project-peteradye#installation-instructions)
   - [Mathematica](https://github.com/ACM40960/project-peteradye#mathematica)
-  - [R / R Studio](https://github.com/ACM40960/project-peteradye#r)
+  - [R](https://github.com/ACM40960/project-peteradye#r)
 - [**Running Code**](https://github.com/ACM40960/project-peteradye#running-code)
   - [Mathematica Notebook](https://github.com/ACM40960/project-peteradye#mathematica-notebook)
   - [R Script](https://github.com/ACM40960/project-peteradye#r-script)
